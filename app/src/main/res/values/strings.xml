@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Peluchitos</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Peluchitos Enterprise</string>
+    <string name="nav_header_subtitle">peluchitos.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Agregar</string>
+    <string name="menu_gallery">Eliminar</string>
+    <string name="menu_slideshow">Buscar</string>
+    <string name="menu_tools">Inventario</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="identificacio">ID:</string>
+    <string name="NombreAgregar">Nombre:</string>
+    <string name="CantidadAgregar">Cantidad:</string>
+    <string name="precioAgregar">Precio $:</string>
+    <string name="NombreInventario">Nombre :</string>
+    <string name="idinventario">ID :</string>
+    <string name="precioinventario">Precio:</string>
+    <string name="cantidadInventario">Cantidad :</string>
+    <string name="nombre">Nombre</string>
+    <string name="id">Id</string>
+    <string name="cantidad">Cantidad</string>
+    <string name="precio">Precio</string>
+    <string name="enviar">Enviar</string>
+    <string name="cantaidad">Cantidad</string>
+</resources>
